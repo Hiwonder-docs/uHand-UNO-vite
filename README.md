@@ -1,6 +1,6 @@
-# Tonybot Documentation
+# uHand_UNO Documentation
 
-This repository contains the Tonybot VitePress documentation site. The
+This repository contains the uHand_UNO VitePress documentation site. The
 documentation source files are Markdown files under `docs/docs/`.
 
 ## Local development
@@ -19,7 +19,7 @@ npm run docs:build
 npm run docs:stage-main
 ```
 
-The staged production files are generated in `projects/Tonybot/en/latest/`.
+The staged production files are generated in `projects/uHand_UNO/en/latest/`.
 
 ## GitHub Pages deployment
 
@@ -30,11 +30,11 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://hiwonder-docs.github.io/Tonybot-vite/projects/Tonybot/en/latest/
+https://hiwonder-docs.github.io/uHand-UNO-vite/projects/uHand_UNO/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/Tonybot/en/latest/
+https://wiki-test.hiwonder.com/projects/uHand_UNO/en/latest/
 ```
